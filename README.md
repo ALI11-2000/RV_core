@@ -14,6 +14,6 @@ For using the Mackerchip IDE with the vcd file we use the [viz.tlv](viz.tlv) fil
 ```bash
 makerchip --vcd dump.vcd viz.tlv 
 ```
-For the above command we get the following output.
+For the above command, we get the following output.
 
 ![Output of the Makerchip](./output.png)

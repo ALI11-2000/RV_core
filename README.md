@@ -9,7 +9,7 @@ This is starter project in which I am using the Makerchip's Visual Debug feature
 iverilog adder.v
 vvp a.out
 ```
-For using the Mackerchip IDE with the vcd file we use the [viz.tlv](viz.tlv) file which has been created by taking help from the [calculator viz](https://github.com/stevehoover/LF-Building-a-RISC-V-CPU-Core/blob/main/lib/calc_viz.tlv) created by [Steve Hoover](https://github.com/stevehoover). For running Makerchip IDE with the vcd file use the following command.
+For using the Mackerchip IDE with the vcd file we use the [viz.tlv](viz.tlv) file. For running Makerchip IDE with the vcd file use the following command.
 
 ```bash
 makerchip --vcd dump.vcd viz.tlv 
